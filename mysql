@@ -1,0 +1,7 @@
+sudo service mysql start
+
+mysql -u root -p
+
+show databases;
+
+create database dbname;
